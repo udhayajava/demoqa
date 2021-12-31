@@ -5,6 +5,7 @@ public interface Operation {
     void getAllLinks() throws InterruptedException;
     void confirmDialogBox();
     void cancelDialogBox();
+    void dialogBox();
     void getLinkCount();
     void getListItem();
     void isChecked();

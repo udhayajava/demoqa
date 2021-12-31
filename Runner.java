@@ -7,7 +7,10 @@ public class Runner {
         operation.getAllLinks();
         operation.confirmDialogBox();
         operation.cancelDialogBox();
+        operation.dialogBox();
         operation.getLinkCount();
+        operation.getListItem();
+        operation.isChecked();
         operation.closeBrowser();
     }
 }
